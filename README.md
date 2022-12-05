@@ -1,2 +1,2 @@
 # tbotnew
-`how`
+`Im just a new`
